@@ -1,0 +1,23 @@
+{
+  "name": "oh-nano-agent",
+  "version": "1.0.0",
+  "description": "Ultra-lightweight sub-agent framework for OpenClaw",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "keywords": [
+    "openclaw",
+    "agent",
+    "lightweight",
+    "subagent",
+    "minimal"
+  ],
+  "author": "Tony",
+  "license": "MIT",
+  "dependencies": {},
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
